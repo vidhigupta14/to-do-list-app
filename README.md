@@ -30,13 +30,3 @@ Minimal design. Maximum usefulness. No unnecessary fluff.
 
 ---
 
-## 📦 Installation & Setup
-
-Clone the repository and run it locally:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
->>>>>>> 79bb73334d1f90c8e3cecf47d76ff6e2af32516a
