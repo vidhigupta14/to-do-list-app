@@ -4,7 +4,6 @@
 A simple yet fully functional **To-Do List application** built using **React + Vite**.  
 This project was created as a practice build, with a strong focus on **clean UI**, **organized code**, and **practical real-world functionality**.
 
-Minimal design. Maximum usefulness. No unnecessary fluff.
 
 ---
 
