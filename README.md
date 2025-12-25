@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # 📝 React To-Do List App
 
 A simple yet fully functional **To-Do List application** built using **React + Vite**.  
